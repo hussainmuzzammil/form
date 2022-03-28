@@ -1,0 +1,70 @@
+.body{
+    margin: 0%;
+    padding: 0%;
+}
+.div1{
+    display: flex;
+    flex-flow: column;
+    width: 20%;
+ 
+    padding: 30px;
+    color: white;
+    margin:  0% auto;
+     font-family: 'ballo 2',cursive;
+     opacity: none;
+     background-color: rgba(59, 59, 59, 0.911);
+    }
+
+.div1 input{
+    padding: 10px 22px;
+    margin-top: 15px;
+    font-family: 'ballo 2',cursive;
+    letter-spacing: 1px;
+}
+
+.img{
+    height: 600px;
+    padding-bottom: 120px  ;
+   opacity: 0.8;
+}
+
+.main-div{
+    
+    padding: 123px 0;
+}
+
+.div1 h1{
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.div1 button{
+    padding: 12px 22px;
+    font-family: 'ballo 2',cursive;
+    cursor: pointer;
+    border: none;
+}
+
+.btn1{
+   width: 130px;
+   background-color: rgba(39, 39, 250, 0.726);
+   color: white;
+   letter-spacing: 2px;
+}
+
+.btn2{
+    width: 130px;
+    background-color: rgb(247, 0, 41);
+    color: white;
+    letter-spacing: 2px;
+}
+
+.login{
+    background-color: rgb(0, 0, 253);
+    color: white;
+    letter-spacing: 3px;
+}
+.pera1{
+    text-align: center;
+}
+
